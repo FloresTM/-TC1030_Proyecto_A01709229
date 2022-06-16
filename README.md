@@ -9,4 +9,4 @@ Nuetsra clase principal en el uml es Nave, el arma se anade a la nave usando un 
 
 Cabe mencionar que puse los getters y setters necesarios en cada una de las clases de nuestro uml.
 
-Finalmente, la clase Nave es donde se llevan acabo la mayoria de las operaciones, creamos nuestro objeto Piloto y lo anandimos al contrcutor, tenemos una funcion addArma para que el usuario pueda elegir el arma que quiera, y es donde se lleva acabo el ataque.
+Finalmente, la clase Nave es donde se llevan acabo la mayoria de las operaciones, creamos nuestro objeto Piloto y lo anandimos al contrcutor, tenemos una funcion addArma para que el usuario pueda elegir el arma que quiera, y es donde se lleva acabo el ataque. 
